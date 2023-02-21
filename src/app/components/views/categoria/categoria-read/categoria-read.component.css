@@ -1,0 +1,58 @@
+.content{
+    width: 90%;
+    height: 90%;
+    margin: 1.4rem auto auto auto;
+}
+
+.title{
+    margin-bottom: 3rem;
+    width: 200px;
+    height: 55px;
+    margin: 0 auto;
+}
+
+.titletext{
+    color: rgba(255, 255, 255, 0.87);
+    font-size: 18pt;
+    font-weight: 500;
+    text-align: center;
+    
+}
+
+.cadastrar{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    float: right;
+    background-color: rgba(0, 128, 0, 0.774) !important;
+    font-size: 11pt;
+}
+
+.table{
+    background-color: rgba(190, 188, 188, 0.61);
+}
+
+a{
+    text-decoration: none !important;
+}
+
+.livro{
+    background-color: brown !important;
+    font-size: 11pt; 
+}
+
+.labellivro{
+    margin-left: 23px;
+}
+
+.botoes{
+    width: 9rem;
+}
+
+.editar{
+    color: rgba(0, 0, 255, 0.822);
+}
+
+.deletar{
+    color: rgba(255, 0, 0, 0.849);
+    margin-left: 15px; 
+}
